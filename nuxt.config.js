@@ -46,7 +46,7 @@ module.exports = {
   },
   server: {
     host: '0.0.0.0',
-    port: 8089
+    port: 3389
   },
   plugins: [
     '~/plugins/dayjs.js',
