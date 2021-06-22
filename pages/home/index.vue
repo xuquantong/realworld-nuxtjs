@@ -2,8 +2,8 @@
   <div class="home-page">
     <div class="banner">
       <div class="container">
-        <h1 class="logo-font">拉勾教育大前端 - xuquantong</h1>
-        <p>薪资翻倍，薪资翻倍！</p>
+        <h1 class="logo-font">拉勾教育大前端</h1>
+        <p>薪资翻倍，薪资翻倍！ - xuquantong 2021-6-22</p>
       </div>
     </div>
 
